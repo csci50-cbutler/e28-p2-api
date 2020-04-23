@@ -40,6 +40,7 @@
     "id": 5,
     "name": "Ron Periwinkle",
     "title": "Specialist,
+    "shift": "Early",
     "start": "5:00 AM",
     "end": "1:00 PM",
     "supervisor": "Arlyn Hollis"
