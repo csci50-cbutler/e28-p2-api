@@ -1,8 +1,9 @@
-[
+{
+  "employees": [
   {
     "id": 1,
     "name": "Sheryl Lawton",
-    "title": "Customer Experience Rep"
+    "title": "Customer Experience Rep",
     "shift": "Early",
     "start": "5:00 AM",
     "end": "1:00 PM",
@@ -11,7 +12,7 @@
   {
     "id": 2,
     "name": "Charles Anders",
-    "title": "Customer Experience Rep"
+    "title": "Customer Experience Rep",
     "shift": "Early",
     "start": "5:00 AM",
     "end": "1:00 PM",
@@ -20,7 +21,7 @@
   {
     "id": 3,
     "name": "Karolina Lindelof",
-    "title": "Customer Experience Rep"
+    "title": "Customer Experience Rep",
     "shift": "Early",
     "start": "5:00 AM",
     "end": "1:00 PM",
@@ -29,7 +30,7 @@
   {
     "id": 4,
     "name": "Michelle Clayton Lawton",
-    "title": "Specialist"
+    "title": "Specialist",
     "shift": "Early",
     "start": "5:00 AM",
     "end": "1:00 PM",
@@ -38,7 +39,7 @@
   {
     "id": 5,
     "name": "Ron Periwinkle",
-    "title": "Specialist
+    "title": "Specialist,
     "start": "5:00 AM",
     "end": "1:00 PM",
     "supervisor": "Arlyn Hollis"
@@ -46,7 +47,7 @@
   {
     "id": 6,
     "name": "Alex Mendoza",
-    "title": "Shift Supervisor"
+    "title": "Shift Supervisor",
     "shift": "Early",
     "start": "5:00 AM",
     "end": "1:00 PM",
@@ -55,7 +56,7 @@
   {
     "id": 7,
     "name": "Allen Shelton",
-    "title": "Customer Experience Rep"
+    "title": "Customer Experience Rep",
     "shift": "Day",
     "start": "8:00 AM",
     "end": "5:00 PM",
@@ -64,7 +65,7 @@
   {
     "id": 8,
     "name": "Erin Smith",
-    "title": "Customer Experience Rep"
+    "title": "Customer Experience Rep",
     "shift": "Day",
     "start": "8:00 AM",
     "end": "5:00 PM",
@@ -73,7 +74,7 @@
   {
     "id": 9,
     "name": "Betty Quinn",
-    "title": "Customer Experience Rep"
+    "title": "Customer Experience Rep",
     "shift": "Day",
     "start": "8:00 AM",
     "end": "5:00 PM",
@@ -82,7 +83,7 @@
   {
     "id": 10,
     "name": "Sarah Conner",
-    "title": "Customer Experience Rep"
+    "title": "Customer Experience Rep",
     "shift": "Day",
     "start": "8:00 AM",
     "end": "5:00 PM",
@@ -91,7 +92,7 @@
   {
     "id": 11,
     "name": "Corlyn Jacobs",
-    "title": "Customer Experience Rep"
+    "title": "Customer Experience Rep",
     "shift": "Day",
     "start": "8:00 AM",
     "end": "5:00 PM",
@@ -100,7 +101,7 @@
     {
     "id": 12,
     "name": "Jordyn Cerilino",
-    "title": "Specialist"
+    "title": "Specialist",
     "shift": "Day",
     "start": "8:00 AM",
     "end": "5:00 PM",
@@ -109,7 +110,7 @@
    {
     "id": 13,
     "name": "Craig Melville",
-    "title": "Shift Supervisor"
+    "title": "Shift Supervisor",
     "shift": "Day",
     "start": "8:00 AM",
     "end": "5:00 PM",
@@ -118,7 +119,7 @@
    {
     "id": 14,
     "name": "Carla Hasan",
-    "title": "Shift Supervisor"
+    "title": "Shift Supervisor",
     "shift": "Early",
     "start": "7:00 AM",
     "end": "4:00 PM",
@@ -127,7 +128,7 @@
      {
     "id": 15,
     "name": "Chris Butler",
-    "title": "Shift Supervisor"
+    "title": "Shift Supervisor",
     "shift": "Early",
     "start": "5:00 AM",
     "end": "1:00 PM",
@@ -136,10 +137,28 @@
    {
     "id": 16,
     "name": "Arlyn Hollis",
-    "title": "Shift Supervisor"
+    "title": "Shift Supervisor",
     "shift": "Early",
     "start": "7:00 AM",
     "end": "4:00 PM",
     "supervisor": "Dahlia Cantrell"
    },
-]
+],
+  
+"comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  
+"profile": {
+   "name": "typicode"
+ }
+}
