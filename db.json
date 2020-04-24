@@ -5,7 +5,7 @@
       "name": "Cheryl Takada",
       "title": "Customer Experience Representative",
       "shift": "Early",
-      "workHours": "5:00 AM to 2:00 PM",
+      "hours": "5:00 AM to 2:00 PM",
       "supervisor": "Eileen Beedle"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Nelson Taylor",
       "title": "Customer Experience Representative",
       "shift": "Early",
-      "workHours": "5:00 AM to 2:00 PM",
+      "hours": "5:00 AM to 2:00 PM",
       "supervisor": "Eileen Beedle"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Glenna Mendoza",
       "title": "Client Specialist",
       "shift": "Early",
-      "workHours": "5:00 AM to 2:00 PM",
+      "hours": "5:00 AM to 2:00 PM",
       "supervisor": "Eileen Beedle"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Chris Wellston",
       "title": "Customer Experience Representative",
       "shift": "Early",
-      "workHours": "5:00 AM to 2:00 PM",
+      "hours": "5:00 AM to 2:00 PM",
       "supervisor": "Eileen Beedle"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Eileen Beedle",
       "title": "Shift Supervisor",
       "shift": "Early",
-      "workHours": "6:00 AM to 3:00 PM",
+      "hours": "6:00 AM to 3:00 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Markus Jackson",
       "title": "Floor Manager",
       "shift": "Day",
-      "workHours": "8:00 AM to 4:00 PM",
+      "hours": "8:00 AM to 4:00 PM",
       "supervisor": "Carolina Johnson"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Violet Mendoza",
       "title": "Client Specialist",
       "shift": "Day",
-      "workHours": "8:30 AM to 4:30 PM",
+      "hours": "8:30 AM to 4:30 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -61,7 +61,7 @@
       "name": "Daniel Tan",
       "title": "Client Specialist",
       "shift": "Day",
-      "workHours": "8:00 AM to 4:00 PM",
+      "hours": "8:00 AM to 4:00 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Karen White",
       "title": "Client Specialist",
       "shift": "Day",
-      "workHours": "8:30 AM to 4:30 PM",
+      "hours": "8:30 AM to 4:30 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -77,7 +77,7 @@
       "name": "Hari Hasan",
       "title": "Client Specialist",
       "shift": "Day",
-      "workHours": "9:00 AM to 5:00 PM",
+      "hours": "9:00 AM to 5:00 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -85,7 +85,7 @@
       "name": "Manny Mendez",
       "title": "Client Specialist",
       "shift": "Day",
-      "workHours": "9:00 AM to 5:00 PM",
+      "hours": "9:00 AM to 5:00 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -93,7 +93,7 @@
       "name": "Daniella Salazar",
       "title": "Customer Experience Representative",
       "shift": "Day",
-      "workHours": "9:00 AM to 5:00 PM",
+      "hours": "9:00 AM to 5:00 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -101,7 +101,7 @@
       "name": "Darla White",
       "title": "Client Solutions Specialist",
       "shift": "Day",
-      "workHours": "9:30 AM to 5:30 PM",
+      "hours": "9:30 AM to 5:30 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -109,7 +109,7 @@
       "name": "Suresh Kumar",
       "title": "Customer Experience Representative",
       "shift": "Midday",
-      "workHours": "10:30 AM to 6:30 PM",
+      "hours": "10:30 AM to 6:30 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -117,7 +117,7 @@
       "name": "Carolina Johnson",
       "title": "Customer Experience Representative",
       "shift": "Day",
-      "workHours": "9:30 AM to 5:30 PM",
+      "hours": "9:30 AM to 5:30 PM",
       "supervisor": "Dahlia Schannian"
     }
   ],
