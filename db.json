@@ -5,7 +5,7 @@
       "name": "Cheryl Takada",
       "title": "Customer Experience Representative",
       "shift": "Early",
-      "work hours": "5:00 AM to 2:00 PM",
+      "workHours": "5:00 AM to 2:00 PM",
       "supervisor": "Eileen Beedle"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Nelson Taylor",
       "title": "Customer Experience Representative",
       "shift": "Early",
-      "work hours": "5:00 AM to 2:00 PM",
+      "workHours": "5:00 AM to 2:00 PM",
       "supervisor": "Eileen Beedle"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Glenna Mendoza",
       "title": "Client Specialist",
       "shift": "Early",
-      "work hours": "5:00 AM to 2:00 PM",
+      "workHours": "5:00 AM to 2:00 PM",
       "supervisor": "Eileen Beedle"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Chris Wellston",
       "title": "Customer Experience Representative",
       "shift": "Early",
-      "work hours": "5:00 AM to 2:00 PM",
+      "workHours": "5:00 AM to 2:00 PM",
       "supervisor": "Eileen Beedle"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Eileen Beedle",
       "title": "Shift Supervisor",
       "shift": "Early",
-      "work hours": "6:00 AM to 3:00 PM",
+      "workHours": "6:00 AM to 3:00 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Markus Jackson",
       "title": "Floor Manager",
       "shift": "Day",
-      "work hours": "8:00 AM to 4:00 PM",
+      "workHours": "8:00 AM to 4:00 PM",
       "supervisor": "Carolina Johnson"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Violet Mendoza",
       "title": "Client Specialist",
       "shift": "Day",
-      "work hours": "8:30 AM to 4:30 PM",
+      "workHours": "8:30 AM to 4:30 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Karen White",
       "title": "Client Specialist",
       "shift": "Day",
-      "work hours": "8:30 AM to 4:30 PM",
+      "workHours": "8:30 AM to 4:30 PM",
       "supervisor": "Markus Jackson"
     },
     {
@@ -77,19 +77,59 @@
       "name": "Hari Hasan",
       "title": "Client Specialist",
       "shift": "Day",
+      "workHours": "9:00 AM to 5:00 PM",
+      "supervisor": "Markus Jackson"
+    },
+    {
+      "id": 11,
+      "name": "Manny Mendez",
+      "title": "Client Specialist",
+      "shift": "Day",
+      "workHours": "9:00 AM to 5:00 PM",
+      "supervisor": "Markus Jackson"
+    },
+    {
+      "id": 12,
+      "name": "Daniella Salazar",
+      "title": "Customer Experience Representative",
+      "shift": "Day",
       "work hours": "9:00 AM to 5:00 PM",
       "supervisor": "Markus Jackson"
+    },
+    {
+      "id": 13,
+      "name": "Darla White",
+      "title": "Client Solutions Specialist",
+      "shift": "Day",
+      "workHours": "9:30 AM to 5:30 PM",
+      "supervisor": "Markus Jackson"
+    },
+    {
+      "id": 14,
+      "name": "Suresh Kumar",
+      "title": "Customer Experience Representative",
+      "shift": "Midday",
+      "workHours": "10:30 AM to 6:30 PM",
+      "supervisor": "Markus Jackson"
+    },
+    {
+      "id": 15,
+      "name": "Carolina Johnson",
+      "title": "Customer Experience Representative",
+      "shift": "Day",
+      "workHours": "9:30 AM to 5:30 PM",
+      "supervisor": "Dahlia Schannian"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "The rep who helped me was fantastic.  She knew the products well and I was able to decide.",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "The client specialist knew my company and my department. The recommendations were spot on.",
       "postId": 1
     }
   ],
